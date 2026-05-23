@@ -1,16 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=Yubik%20Nakarmi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20Quantum%20Computing&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a1f3a,100:2d6a9f&height=220&section=header&text=Yubik%20Nakarmi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering%20%7C%20Quantum%20Computing&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=+Building+intelligent+systems;📊+Turning+data+into+decisions;+Training+models+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=Exploring+Quantum+Computing;Engineering+Intelligent+Systems;Where+Qubits+meet+Neural+Nets" alt="Typing SVG" />
 </a>
-
 <br/>
-
-
 
 ## Tech Stack
 
@@ -145,30 +141,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YubikNakarmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6BA3D6&icon_color=6BA3D6&text_color=c9d1d9&ring_color=2d6a9f" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YubikNakarmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&ring_color=6e40c9" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YubikNakarmi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YubikNakarmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6BA3D6&text_color=c9d1d9&langs_count=8" height="180" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YubikNakarmi&theme=radical&hide_border=true&background=0d1117&ring=6e40c9&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=c9d1d9" height="180" />
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YubikNakarmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d6a9f&fire=6BA3D6&currStreakLabel=6BA3D6&sideNums=c9d1d9&sideLabels=c9d1d9" height="180" />
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YubikNakarmi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=YubikNakarmi&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&row=1" />
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YubikNakarmi/YubikNakarmi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
