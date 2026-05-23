@@ -1,13 +1,185 @@
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=220&section=header&text=Yubik%20Nakarmi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20Quantum%20Computing&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=+Building+intelligent+systems;📊+Turning+data+into+decisions;+Training+models+that+matter" alt="Typing SVG" />
+</a>
+
+<br/>
+
+
+
 ## Tech Stack
+
+### ML / AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
+
+### Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3E8EBD?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ☁️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## Current Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center"> <a href="https://github.com/YubikNakarmi/Aqi_predictor">AQI Predictor — End-to-End MLOps Pipeline</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-MLOps%20Architecture-6e40c9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forecast-24h%20Ahead-FF6F00?style=flat-square" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p>
+        <p>
+  End-to-end <strong>PM2.5 forecasting system</strong> for Kathmandu's air quality, predicting
+  24 independent hourly horizons using a custom <strong>XGBoost ensemble</strong> — fully automated
+  from raw data to live dashboard.
+</p>
+
+<table>
+  <tr>
+    <td><strong>Orchestration</strong></td>
+    <td>Airflow DAGs — daily predictions, monthly retraining</td>
+  </tr>
+  <tr>
+    <td><strong>Experiment Tracking</strong></td>
+    <td>MLflow registry, Optuna hyperparameter tuning (60 trials)</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Terraform on Azure, DVC + Azure Blob for data versioning</td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td>Dockerized services, GitHub Actions CI/CD, CML reports</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>Streamlit dashboard with live 24h AQI forecast</td>
+  </tr>
+</table>
+      </p>
+      <p align="center">
+        <a href="https://github.com/YubikNakarmi/Aqi_predictor">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3 align="center"> <a href="https://github.com/YubikNakarmi/Galaxy_Prediction">Galaxy Classifier</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Prototyping-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Phase-Early%20Stage-6e40c9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-Astrophysics%20-FF6F00?style=flat-square" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </p>
+      <p>
+  A <strong>ResNet-based CNN</strong> for galaxy morphology classification from user-submitted
+  images, built in three progressive stages:
+</p>
+<table>
+  <tr>
+    <td><strong>Stage 1</strong></td>
+    <td>Simple 5-class galaxy classification (Spiral, Elliptical, Irregular, etc.)</td>
+  </tr>
+  <tr>
+    <td><strong>Stage 2</strong></td>
+    <td>Fine-grained <strong>Hubble morphological classification</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Stage 3</strong></td>
+    <td>Scientific <strong>voting ratio prediction</strong> — probability distributions per class for research-grade confidence estimates</td>
+  </tr>
+</table>
+<p>
+  Served asynchronously via <strong>FastAPI + Celery + Redis</strong>, tracked end-to-end with MLflow, and deployed on Azure. CNN models and data processing will be done on Azure VMs using student credits. 
+</p>
+      <p align="center">
+        <a href="https://github.com/YubikNakarmi/Galaxy_Prediction">
+          <img src="https://img.shields.io/badge/View%20Repository%20(private)-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YubikNakarmi&show_icons=true)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YubikNakarmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=00d4ff&text_color=c9d1d9&ring_color=6e40c9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YubikNakarmi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="180" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YubikNakarmi&theme=radical&hide_border=true&background=0d1117&ring=6e40c9&fire=00d4ff&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=c9d1d9" height="180" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YubikNakarmi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YubikNakarmi/YubikNakarmi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6e40c9&height=120&section=footer" width="100%" />
+
+</div>
