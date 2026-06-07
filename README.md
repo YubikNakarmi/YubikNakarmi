@@ -1,4 +1,4 @@
-<div align="center">
+..<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a1f3a,100:2d6a9f&height=220&section=header&text=Yubik%20Nakarmi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering%20%7C%20Quantum%20Computing&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
@@ -94,8 +94,8 @@
     <td width="100%">
       <h3 align="center"> <a href="https://github.com/YubikNakarmi/Galaxy_Prediction">Galaxy Classifier</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Prototyping-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Phase-Early%20Stage-6e40c9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Phase-In%20Progress-6e40c9?style=flat-square" />
         <img src="https://img.shields.io/badge/Domain-Astrophysics%20-FF6F00?style=flat-square" />
       </p>
       <p align="center">
@@ -126,6 +126,59 @@
     <td>Scientific <strong>voting ratio prediction</strong> — probability distributions per class for research-grade confidence estimates</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Stage</th>
+    <th>Focus</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Environment setup, Docker Compose, dataset download, DVC init</td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Data pipeline: preprocessing, augmentation, DVC stages</td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>3a</td>
+    <td>Model architecture</td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>3b</td>
+    <td>Model training and evaluation, MLflow tracking</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>BentoML inference service, Grad-CAM, dynamic batching</td>
+    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>FastAPI backend: auth, upload, history endpoints</td>
+    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Celery task pipeline, WebSocket delivery, end-to-end test</td>
+    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>GitHub Actions CI/CD, Prometheus + Grafana, Evidently drift</td>
+    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Polish, README, demo video, cloud deployment</td>
+    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+  </tr>
+</table>
 <p>
   Served asynchronously via <strong>FastAPI + Celery + Redis</strong>, tracked end-to-end with MLflow, and deployed on Azure. CNN models and data processing will be done on Azure VMs using student credits. 
 </p>
@@ -136,7 +189,10 @@
       </p>
     </td>
   </tr>
+  
 </table>
+
+
 
 
 ---
