@@ -107,7 +107,7 @@
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
         <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </p>
+        <img src="https://img.shields.io/badge/BentoML-000000?style=flat-square&logo=bentoml&logoColor=white" />    </p>
       <p>
   A <strong>ResNet-based CNN</strong> for galaxy morphology classification from user-submitted
   images, built in three progressive stages:
@@ -150,13 +150,13 @@
   </tr>
   <tr>
     <td>3b</td>
-    <td>Model training and evaluation, MLflow tracking</td>
+    <td>Model training and evaluation, MLflow tracking in VM</td>
     <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
   </tr>
   <tr>
     <td>4</td>
     <td>BentoML inference service, Grad-CAM, dynamic batching</td>
-    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-555555?style=flat-square" /></td>
   </tr>
   <tr>
     <td>5</td>
