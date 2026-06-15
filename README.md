@@ -109,8 +109,8 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/BentoML-000000?style=flat-square&logo=bentoml&logoColor=white" />    </p>
       <p>
-  A <strong>ResNet-based CNN</strong> for galaxy morphology classification from user-submitted
-  images, built in three progressive stages:
+  A <strong>custom built ResNet-based CNN</strong> for galaxy morphology classification from user-submitted
+  images. This project will have a full working architecture with end to end MLOps pipeline and service deployment. Lastly, Azure student credits and Kaggle were used for model training and infrastructure testing. The current progress is:
 </p>
 <table>
   <tr>
