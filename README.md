@@ -126,7 +126,8 @@
     <td>Scientific <strong>voting ratio prediction</strong> — probability distributions per class for research-grade confidence estimates</td>
   </tr>
 </table>
-
+      
+<p><b>Current progress</b></p>
 <table>
   <tr>
     <th>Stage</th>
@@ -156,7 +157,7 @@
   <tr>
     <td>4</td>
     <td>BentoML inference service, Grad-CAM, dynamic batching</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
   </tr>
   <tr>
     <td>5</td>
