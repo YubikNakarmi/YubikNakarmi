@@ -158,7 +158,7 @@
   <tr>
     <td>4</td>
     <td>BentoML inference service, Grad-CAM, dynamic batching</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
   </tr>
   <tr>
     <td>5</td>
