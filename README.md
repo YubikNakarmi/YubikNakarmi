@@ -163,7 +163,7 @@
   <tr>
     <td>5</td>
     <td>FastAPI backend: auth, upload, history endpoints</td>
-    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
   </tr>
   <tr>
     <td>6</td>
