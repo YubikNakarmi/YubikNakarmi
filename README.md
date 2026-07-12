@@ -168,7 +168,7 @@
   <tr>
     <td>6</td>
     <td>Celery task pipeline, WebSocket delivery, end-to-end test</td>
-    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-Progress--FF6F00?style=flat-square" /></td>
   </tr>
   <tr>
     <td>7</td>
