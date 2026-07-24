@@ -167,13 +167,13 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>Celery task pipeline, WebSocket delivery, end-to-end test</td>
-    <td><img src="https://img.shields.io/badge/-Progress--FF6F00?style=flat-square" /></td>
+    <td>Celery task pipeline,end-to-end test</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
   </tr>
   <tr>
     <td>7</td>
     <td>GitHub Actions CI/CD, Prometheus + Grafana, Evidently drift</td>
-    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%Progress-555555?style=flat-square" /></td>
   </tr>
   <tr>
     <td>8</td>
