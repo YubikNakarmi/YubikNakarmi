@@ -1,10 +1,10 @@
-..<div align="center">
+<div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a1f3a,100:2d6a9f&height=220&section=header&text=Yubik%20Nakarmi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering%20%7C%20Quantum%20Computing&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1c2b,50:2d6a7a,100:e8a33d&height=220&section=header&text=Yubik%20Nakarmi&fontSize=52&fontColor=fff5e6&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering%20%7C%20Quantum%20Computing&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=Exploring+Quantum+Computing;Engineering+Intelligent+Systems;Where+Qubits+meet+Neural+Nets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=E8A33D&center=true&vCenter=true&width=700&height=80&lines=Exploring+Quantum+Computing;Engineering+Intelligent+Systems;Where+Qubits+meet+Neural+Nets" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -39,9 +39,9 @@
     <td width="100%">
       <h3 align="center"> <a href="https://github.com/YubikNakarmi/Aqi_predictor">AQI Predictor — End-to-End MLOps Pipeline</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-MLOps%20Architecture-6e40c9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Forecast-24h%20Ahead-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-e8a33d?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-MLOps%20Architecture-d896c8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forecast-24h%20Ahead-2d6a7a?style=flat-square" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
@@ -94,9 +94,9 @@
     <td width="100%">
       <h3 align="center"> <a href="https://github.com/YubikNakarmi/Galaxy_Prediction">Galaxy Classifier</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Phase-In%20Progress-6e40c9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-Astrophysics%20-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-e8a33d?style=flat-square" />
+        <img src="https://img.shields.io/badge/Phase-In%20Progress-d896c8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domain-Astrophysics%20-e8a33d?style=flat-square" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -153,7 +153,7 @@
   <tr>
     <td>3b</td>
     <td>Model training and evaluation, MLflow tracking in VM</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-e8a33d?style=flat-square" /></td>
   </tr>
   <tr>
     <td>4</td>
@@ -163,17 +163,17 @@
   <tr>
     <td>5</td>
     <td>FastAPI backend: auth, upload, history endpoints</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-e8a33d?style=flat-square" /></td>
   </tr>
   <tr>
     <td>6</td>
     <td>Celery task pipeline,end-to-end test</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-FF6F00?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
   </tr>
   <tr>
     <td>7</td>
     <td>GitHub Actions CI/CD, Prometheus + Grafana, Evidently drift</td>
-    <td><img src="https://img.shields.io/badge/-In%Progress-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-e8a33d?style=flat-square" /></td>
   </tr>
   <tr>
     <td>8</td>
@@ -201,11 +201,11 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YubikNakarmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6BA3D6&icon_color=6BA3D6&text_color=c9d1d9&ring_color=2d6a9f" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=YubikNakarmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a1c2b&title_color=E8A33D&icon_color=D896C8&text_color=EAD9C5&ring_color=2D6A7A" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YubikNakarmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6BA3D6&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YubikNakarmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0a1c2b&title_color=E8A33D&text_color=EAD9C5&langs_count=8" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YubikNakarmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d6a9f&fire=6BA3D6&currStreakLabel=6BA3D6&sideNums=c9d1d9&sideLabels=c9d1d9" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YubikNakarmi&theme=github-dark-blue&hide_border=true&background=0a1c2b&ring=2D6A7A&fire=E8A33D&currStreakLabel=E8A33D&sideNums=EAD9C5&sideLabels=EAD9C5" height="180" />
 
 ---
 
@@ -226,6 +226,6 @@
 <div align="center">
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6e40c9&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a33d,50:2d6a7a,100:0a1c2b&height=120&section=footer" width="100%" />
 
 </div>
