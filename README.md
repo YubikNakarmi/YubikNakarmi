@@ -178,7 +178,7 @@
   <tr>
     <td>8</td>
     <td>Polish, README, demo video, cloud deployment</td>
-    <td><img src="https://img.shields.io/badge/-Planned-555555?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-e8a33d?style=flat-square" /></td>
   </tr>
 </table>
 <p>
