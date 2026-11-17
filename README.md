@@ -30,66 +30,12 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ---
 
 ## Current Projects
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="center"> <a href="https://github.com/YubikNakarmi/Aqi_predictor">AQI Predictor — End-to-End MLOps Pipeline</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active-e8a33d?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-MLOps%20Architecture-d896c8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Forecast-24h%20Ahead-2d6a7a?style=flat-square" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-      <p>
-        <p>
-  End-to-end <strong>PM2.5 forecasting system</strong> for Kathmandu's air quality, predicting
-  24 independent hourly horizons using a custom <strong>XGBoost ensemble</strong> — fully automated
-  from raw data to live dashboard.
-</p>
 
-<table>
-  <tr>
-    <td><strong>Orchestration</strong></td>
-    <td>Airflow DAGs — daily predictions, monthly retraining</td>
-  </tr>
-  <tr>
-    <td><strong>Experiment Tracking</strong></td>
-    <td>MLflow registry, Optuna hyperparameter tuning (60 trials)</td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>Terraform on Azure, DVC + Azure Blob for data versioning</td>
-  </tr>
-  <tr>
-    <td><strong>Deployment</strong></td>
-    <td>Dockerized services, GitHub Actions CI/CD, CML reports</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>Streamlit dashboard with live 24h AQI forecast</td>
-  </tr>
-</table>
-      </p>
-      <p align="center">
-        <a href="https://github.com/YubikNakarmi/Aqi_predictor">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
   <tr>
     <td width="100%">
       <h3 align="center"> <a href="https://github.com/YubikNakarmi/Galaxy_Prediction">Galaxy Classifier</a></h3>
@@ -153,7 +99,7 @@
   <tr>
     <td>3b</td>
     <td>Model training and evaluation, MLflow tracking in VM</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-e8a33d?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
   </tr>
   <tr>
     <td>4</td>
@@ -163,7 +109,7 @@
   <tr>
     <td>5</td>
     <td>FastAPI backend: auth, upload, history endpoints</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-e8a33d?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/-Done-2ea44f?style=flat-square" /></td>
   </tr>
   <tr>
     <td>6</td>
